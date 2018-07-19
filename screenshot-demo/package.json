@@ -1,0 +1,17 @@
+{
+  "name": "sceenshot-demo",
+  "productName": "Screenshot Demo",
+  "version": "1.0.0",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron-prebuilt": "^1.4.13"
+  },
+  "dependencies": {},
+  "description": ""
+}
